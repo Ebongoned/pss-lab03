@@ -5,3 +5,4 @@ postman/prywatne/
 # Pliki systemowe
 .DS_Store
 Thumbs.db
+postman/priv/
